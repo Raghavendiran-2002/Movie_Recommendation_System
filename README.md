@@ -24,26 +24,26 @@
 
 - Deploy Application on Docker
 
-- - Build Image:
+        Build Image:
 
-```
-docker build . -t movie
-```
+        ```
+        docker build . -t movie
+        ```
 
-- - Run Image:
+        Run Image:
 
-```
-docker run -p 5001:5001 --name movie-recommendation-system movie
-```
+        ```
+        docker run -p 5001:5001 --name movie-recommendation-system movie
+        ```
 
-- - Remove Image:
+        Remove Image:
 
-```
-docker rmi movie
-```
+        ```
+        docker rmi movie
+        ```
 
-- - Remove All Images:
+        Remove All Images:
 
-```
-  docker system prune -a
-```
+        ```
+        docker system prune -a
+        ```
