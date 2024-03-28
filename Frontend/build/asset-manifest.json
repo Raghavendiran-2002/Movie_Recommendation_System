@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9e8f2a23.chunk.css",
+    "main.js": "/static/js/main.5f42eaab.chunk.js",
+    "main.js.map": "/static/js/main.5f42eaab.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.9bf6d4d4.js",
+    "runtime~main.js.map": "/static/js/runtime~main.9bf6d4d4.js.map",
+    "static/js/2.87ef24b1.chunk.js": "/static/js/2.87ef24b1.chunk.js",
+    "static/js/2.87ef24b1.chunk.js.map": "/static/js/2.87ef24b1.chunk.js.map",
+    "static/js/3.20abe59b.chunk.js": "/static/js/3.20abe59b.chunk.js",
+    "static/js/3.20abe59b.chunk.js.map": "/static/js/3.20abe59b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.989d23e71c1a1402ca459efad2a08cb1.js": "/precache-manifest.989d23e71c1a1402ca459efad2a08cb1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.9e8f2a23.chunk.css.map": "/static/css/main.9e8f2a23.chunk.css.map",
+    "static/media/Logo2.png": "/static/media/Logo2.a4b61053.png",
+    "static/media/HomeStyles.css": "/static/media/wallpaper2.8717e91e.jpg"
+  }
+}
