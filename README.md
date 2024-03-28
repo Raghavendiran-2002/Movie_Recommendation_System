@@ -1,5 +1,15 @@
 # Movie_Recommendation_System
 
+### Deploy Locally
+
+- Install Python 3
+
+- Install the python packages in 'requirements.txt'
+
+- Run the application
+
+  `python3 app.py`
+
 ### Deploy on Docker
 
 - Install Docker and Docker-compose
