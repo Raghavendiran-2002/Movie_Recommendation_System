@@ -1,8 +1,8 @@
 # Movie_Recommendation_System
 
-![Image Alt text](/images/img1.jpg)
-![Image Alt text](/images/img2.jpg)
-![Image Alt text](/images/img3.jpg)
+![Image Alt text](/images/img1.png)
+![Image Alt text](/images/img2.png)
+![Image Alt text](/images/img3.png)
 
 ### Deploy Locally
 
